@@ -9,7 +9,7 @@
 
 ## Live Link
 
-Hosted in netlify -> [[https://toy-marketplace-client.web.app/](https://toy-marketplace-client.web.app/](https://64a68f3e636ca109f7edb1b5--relaxed-empanada-fa76ff.netlify.app/))
+Hosted in netlify -> [[[https://toy-marketplace-client.web.app/](https://toy-marketplace-client.web.app/](https://64a68f3e636ca109f7edb1b5--relaxed-empanada-fa76ff.netlify.app/)](https://64a68f3e636ca109f7edb1b5--relaxed-empanada-fa76ff.netlify.app/))
 
 ## Installation
 
