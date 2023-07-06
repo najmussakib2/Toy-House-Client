@@ -1,6 +1,6 @@
 ## Project features
 
-- This is educational and learning toy marketplace
+- This is adventure and action toy marketplace
 - Website banner, gallery, sub categories, happy customers and contact info can be seen on the project homepage.
 - Only authenticate users can be seen the toy details from sub category section and all toys page after click the details button.
 - User can register and login from login and register page. Google login also added.
@@ -9,7 +9,7 @@
 
 ## Live Link
 
-Hosted in netlify -> [https://64a68f3e636ca109f7edb1b5--relaxed-empanada-fa76ff.netlify.app/](https://64a68f3e636ca109f7edb1b5--relaxed-empanada-fa76ff.netlify.app/)
+Hosted in Firebase -> [https://toy-marketplace-client.web.app/](https://toy-marketplace-client.web.app/)
 
 ## Installation
 
