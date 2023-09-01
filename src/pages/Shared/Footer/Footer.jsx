@@ -2,7 +2,7 @@ import logo from "../../../assets/logo/logo.png";
 const Footer = () => {
   return (
     <>
-      <footer className="footer p-10  text-white bg-black">
+      <footer className="footer p-28  text-white bg-black ">
         <div>
           <span className="footer-title">Services</span>
           <a className="link link-hover">Branding</a>

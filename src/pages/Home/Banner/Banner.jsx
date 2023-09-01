@@ -1,4 +1,4 @@
-import bannerPhoto from "../../../assets/photos/banner-photo.jpg";
+
 
 const Banner = () => {
   return (
@@ -28,7 +28,7 @@ const Banner = () => {
         data-aos-duration="1000"
         className="md:ml-auto"
       >
-        <img className="rounded-md" src={bannerPhoto} alt="" />
+        <img className="rounded-md" src={"https://www.action-figure-resource.com/images/TgMnPlR.jpg"} alt="" />
       </div>
     </div>
   );

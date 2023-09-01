@@ -7,7 +7,7 @@ const ShopByCategoryCard = ({ toy }) => {
   return (
     <div className="shadow border rounded-md">
       <figure>
-        <img className="md:h-56 rounded-md" src={picture_url} />
+        <img className="md:h-56 w-full rounded-md" src={picture_url} />
       </figure>
       <div className="p-2 space-y-4">
         <h2 className="text-xl text-gray-500 font-bold">{name}</h2>

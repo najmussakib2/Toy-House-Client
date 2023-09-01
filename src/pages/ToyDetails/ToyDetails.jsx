@@ -44,8 +44,8 @@ const ToyDetails = () => {
     <div className="md:h-[calc(100vh-138px)] my-16">
       <Hero title="Toy details"></Hero>
       <div className="grid grid-cols-1 md:grid-cols-3 shadow-md border rounded-md">
-        <figure className="md:col-span-1">
-          <img src={picture_url} className="h-60"/>
+        <figure className="md:col-span-1 flex items-center">
+          <img src={picture_url} className="h-60 rounded"/>
         </figure>
         <div className="card-body md:col-span-2">
           <h2 className="card-title">{name}</h2>
