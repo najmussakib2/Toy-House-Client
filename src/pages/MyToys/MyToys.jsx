@@ -66,7 +66,7 @@ const MyToys = () => {
   }
 
   return (
-    <div className="my-8">
+    <div className="w-[95%] md:w-[80%] mx-auto my-8">
       <Hero title="My Toys"></Hero>
       {myToys.length > 0 ? (
         <>

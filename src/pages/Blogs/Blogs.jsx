@@ -10,7 +10,7 @@ const Blogs = () => {
   useTitle("Blogs");
 
   return (
-    <div>
+    <div className="w-[95%] md:w-[80%] mx-auto">
       <div className="flex flex-col space-y-4 my-8">
         <Hero title="Blogs"></Hero>
         <div

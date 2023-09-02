@@ -18,9 +18,7 @@ const Banner = () => {
           having fun with our carefully curated selection of toys. Join us on
           this exciting journey of exploration and discovery!
         </p>
-        <button className="btn btn-active btn-ghost btn-wide btn-sm md:btn-md">
-          More Info
-        </button>
+       
       </div>
       <div
         data-aos="fade-up"

@@ -71,7 +71,7 @@ const AllToys = () => {
   };
 
   return (
-    <div className="my-8">
+    <div className="w-[95%] md:w-[80%] mx-auto my-8">
       <Hero title="All Toys"></Hero>
       <div className="flex justify-center items-center text-center my-12">
         <div className="form-control">

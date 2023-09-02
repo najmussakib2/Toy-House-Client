@@ -68,7 +68,8 @@ const AddToy = () => {
       .catch((error) => console.log(error));
   };
   return (
-    <div className="my-8 space-y-8">
+    
+      <div className="w-[95%] md:w-[80%] mx-auto my-8 space-y-8">
       <Hero title="Add a toy"></Hero>
       <div className="card w-full rounded-md border">
         <div className="card-body">
