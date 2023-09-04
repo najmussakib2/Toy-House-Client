@@ -4,7 +4,7 @@ const Questions = () => {
     return (
         <div className=" min-h-screen mt-28">
             <h2 className="text-2xl text-center mx-10 md:text-4xl text-gray-500 font-extrabold border-b-2 pb-5 mb-10">
-                Frequently Asked Questions!
+                Frequently Asked Questions
             </h2>
             <div className="hero">
                 <div className="hero-content flex-col lg:flex-row-reverse">
